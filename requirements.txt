@@ -4,3 +4,4 @@ numpy
 python-dateutil
 langchain-groq
 sqlite3
+python-dateutil
