@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+python-dateutil
+langchain-groq
+sqlite3
