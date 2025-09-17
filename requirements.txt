@@ -5,3 +5,9 @@ python-dateutil
 langchain-groq
 sqlite3
 python-dateutil
+dotenv
+langchain.chain
+langchain.prompt
+langchain.detect
+pip install --upgrade pip
+sckit-learn
